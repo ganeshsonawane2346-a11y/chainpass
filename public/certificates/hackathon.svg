@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="url(#g3)"/>
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="400" y2="300">
+      <stop stop-color="#581c87"/>
+      <stop offset="1" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <polygon points="200,60 230,120 170,120" fill="#fbbf24" opacity="0.8"/>
+  <text x="200" y="180" text-anchor="middle" fill="white" font-family="system-ui" font-size="20" font-weight="bold">Hackathon Winner</text>
+  <text x="200" y="210" text-anchor="middle" fill="#fde68a" font-family="system-ui" font-size="14">NFT Credential</text>
+</svg>
